@@ -1,2 +1,2 @@
-# NLP_Based_Chatbot
+# NLP Based Chatbot
 Chatbot with GUI interface
